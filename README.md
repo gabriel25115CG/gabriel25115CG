@@ -1,1 +1,1 @@
-[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel25115CG&theme=transparent icons=true))](https://github.com/gabriel25115CG/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel25115CG&theme=dark&show_icons=true)
