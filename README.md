@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ## 📊 GitHub Stats
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel25115CG&show_icons=true&theme=radical)   ## 🛠️ Technologies & Tools  
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel25115CG&show_icons=true&theme=radical)  
+
+## 🛠️ Technologies & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
