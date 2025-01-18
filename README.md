@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## 📊 GitHub Stats
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel25115CG&show_icons=true&theme=radical)  
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel25115CG&layout=compact&theme=radical)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel25115CG&show_icons=true&theme=radical)  ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel25115CG&layout=compact&theme=radical)
+
 
 
 ## 🛠️ Technologies & Tools  
