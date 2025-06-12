@@ -14,6 +14,9 @@
   <b>🛠️ Technologies & Tools</b><br>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -40,8 +43,7 @@ I am a versatile student at UTBM, equally passionate about networking and softwa
 This balance allows me to approach cybersecurity challenges with a broad perspective and strong technical skills.  
 
 Passionate about cybersecurity, I focus on penetration testing, network analysis, and securing applications.  
-I enjoy exploring vulnerabilities and developing secure code with Python and JavaScript.  
-
+I enjoy exploring vulnerabilities and developing secure code with Python, JavaScript, C, C++, and Java.  
 
 ---
 
