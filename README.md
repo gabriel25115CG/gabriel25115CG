@@ -25,11 +25,19 @@
   <img src="https://img.shields.io/badge/-Burp_Suite-FF6800?style=flat-square&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-FC6A03?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-John_the_Ripper-1B1B1B?style=flat-square&logo=john-the-ripper&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenVAS-4CAF50?style=flat-square&logo=openvas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nikto-D00000?style=flat-square&logo=nikto&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP_ZAP-5C0D0D?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 
 ---
 
 ## 💡 About Me
+
+I am a versatile student at UTBM, equally passionate about networking and software/web development.  
+This balance allows me to approach cybersecurity challenges with a broad perspective and strong technical skills.  
 
 Passionate about cybersecurity, I focus on penetration testing, network analysis, and securing applications.  
 I enjoy exploring vulnerabilities and developing secure code with Python and JavaScript.  
