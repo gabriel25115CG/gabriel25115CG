@@ -42,7 +42,6 @@ This balance allows me to approach cybersecurity challenges with a broad perspec
 Passionate about cybersecurity, I focus on penetration testing, network analysis, and securing applications.  
 I enjoy exploring vulnerabilities and developing secure code with Python and JavaScript.  
 
-Feel free to check out my projects related to blockchain security, network monitoring, and ethical hacking.
 
 ---
 
